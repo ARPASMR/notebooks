@@ -1,5 +1,6 @@
 # notebooks
-jupyter notebooks 
+jupyter notebooks nella cartella __docs__
+
 Repository dei file in formato jupyter notebook per l'esecuzione di alcune operazioni:
 1. Calcolo del rendimento della rete
 2. Estrazione dati pluviometrici (come ExportPluvio.exe)
@@ -16,3 +17,6 @@ Verrà creata una sessione di jupyter notebook con il browser settato come prede
 
 ## Linux ##
 - da implementare -
+
+# utilizzo di jupyter #
+vedere http://jupyter.org/ https://jupyter-notebook.readthedocs.io/en/stable/
