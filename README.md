@@ -4,7 +4,7 @@ Repository dei file in formato jupyter notebook per l'esecuzione di alcune opera
 1. Calcolo del rendimento della rete
 2. Estrazione dati pluviometrici (come ExportPluvio.exe)
 3. Calcolo delle rose dei venti
-4. 
+4. Estrazione dei valori della mappa interpolata
 
 # installazione di jupyter notebook #
 ## Windows ##
