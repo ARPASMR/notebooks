@@ -24,5 +24,5 @@ vedere http://jupyter.org/ https://jupyter-notebook.readthedocs.io/en/stable/
 ## utilizzo per windows ##
 dalla shell "cmd" nella cartella dove è presente WinPython lanciare
 ```
-jupiter notebook --port=8889
+jupyter notebook --port=8889
 ```
