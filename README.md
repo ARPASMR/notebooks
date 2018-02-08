@@ -20,3 +20,9 @@ Verrà creata una sessione di jupyter notebook con il browser settato come prede
 
 # utilizzo di jupyter #
 vedere http://jupyter.org/ https://jupyter-notebook.readthedocs.io/en/stable/
+
+## utilizzo per windows ##
+dalla shell "cmd" nella cartella dove è presente WinPython lanciare
+```
+jupiter notebook --port=8889
+```
